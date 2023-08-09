@@ -1,9 +1,9 @@
 <h1 align="center">Hello there👋, Disha here</h1>
 <h3 align="center">Intrested in Web development and Coding.</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/moodman-kz6cm1kKle2MYkHtJF">
-- 🌱 I’m currently learning **Python**
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
+- 🌱 I’m currently learning Python
 
-- 📫 How to reach me **acharyardisha@gmail.com**
+- 📫  **acharyardisha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
