@@ -1,6 +1,6 @@
 <h1 align="center">Hello there👋, Disha here</h1>
 <h3 align="center">Intrested in Web development and Coding.</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/moodman-kz6cm1kKle2MYkHtJF.gif"
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/moodman-kz6cm1kKle2MYkHtJF">
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **acharyardisha@gmail.com**
