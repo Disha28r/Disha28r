@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋, Disha here</h1>
-<h3 align="center">Intrested in Web development and Coding.</h3>
+<h3 align="center">Intrested in UI-UX designing and Full stack development.</h3>
 <img align="center" alt="coding" width="800" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
 <img align="right" alt="girl" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/588844ea-7557-47b4-bf2f-a3befa6ea036/d9jd8tx-e2ebdd97-af55-471e-b483-4a30366fd944.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi81ODg4NDRlYS03NTU3LTQ3YjQtYmYyZi1hM2JlZmE2ZWEwMzYvZDlqZDh0eC1lMmViZGQ5Ny1hZjU1LTQ3MWUtYjQ4My00YTMwMzY2ZmQ5NDQuZ2lmIn1dXX0.fpGZk9CIvLEZ784qJZAjjy45uX-hZkbHdYwdavUVcPs">
 - 🌱 I’m currently learning MERN
