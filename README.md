@@ -12,7 +12,7 @@
 
   <p><code>>_ EXECUTING_PROFILE_SCRIPT.sh...</code></p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Python+Developer;Mastering+DSA;AI+ML;Agentic+AI+Applications;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+AI+Engineer;Mastering+DSA;AI+ML;Agentic+AI+Applications;Open+Source+Contributor" alt="Typing Animation" />
 
   <br/>
 
