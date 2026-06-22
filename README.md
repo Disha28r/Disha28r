@@ -55,11 +55,12 @@
         <code>>_ ANALYZING:</code> Architecture of large-scale signage displays.<br>
       </p>
       <details>
-        <summary><code><b>>_ sudo view_learning_strategy.log</b></code> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"></summary>
-        <br>
-        <code>1. while(awake) { solve(LeetCode_Medium); }</code><br>
-        <code>2. read_docs(Philips_Android_Displays);</code><br>
-        <code>3. npm run build: Full_Stack_Clones;</code>
+      <summary><code><b>>_ sudo view_learning_strategy.log</b></code> <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://giphy.com/gifs/pudgypenguins-learning-learn-midterm-E8xusSHsJGepz3UbtX)" width="20"></summary>
+      <br>
+      <code>while awake:</code><br>
+      <code>  1.solve("Leetcode_medium")</code><br>
+      <code>  2. train(brain, topics=["LLMs", "RAG", "Agentic AI"])</code><br>
+      <code>  3. ship(ai_powered_projects)</code>
       </details>
     </td>
     <td width="30%" align="center">
