@@ -5,7 +5,8 @@
 <h2 align="center"><code>Visual Interface</code></h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="cozy coding desk" />
+  <img align="center" alt="coding" width="500" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
+
   
   <br/>
 
