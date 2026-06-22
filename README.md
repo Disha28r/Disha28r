@@ -38,7 +38,7 @@
       <p>
         <code>>_ TARGET:</code> <b>Scalable AI Solutions</b><br>
         <code>>_ ACTION:</code> Deep-diving into exploring <mark>LLMs</mark>, <mark>RAG</mark>, <mark>Agentic AI </mark>, <mark>FastAPI</mark>, <mark>Django/Flask</mark> and <mark>Production ML Systems</mark>.<br><br>
-        <code>>_ SUB_PROCESS:</code> <b>Grinding LeetCode while pretending not to panic</b><br>
+        <code>>_ SUB_PROCESS:</code> <b>Grinding while pretending not to panic</b><br>
         Simultaneously optimizing problem-solving capabilities with <b>Advanced DSA</b>.
       </p>
     </td>
@@ -48,7 +48,7 @@
 <table border="0">
   <tr>
     <td width="70%">
-      <h3><code>root@manish:~/skill_acquisition</code></h3>
+      <h3><code>Skill Acquisition</code></h3>
       <p>
         <code>>_ STATUS:</code> <b>Processing Data...</b><br>
         My neural net is currently absorbing <b>DSA Patterns</b>.<br>
