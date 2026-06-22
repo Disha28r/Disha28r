@@ -102,10 +102,10 @@
   <p><code>[STATUS: LISTENING_ON_ALL_PORTS...]</code></p>
   <br>
   <a href="https://www.linkedin.com/in/dishar28/">
-    <img src="https://img.shields.io/badge/>_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="55" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="55" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp; <a href="mailto:acharyardisha@gmail.com">
-    <img src="https://img.shields.io/badge/>_Send_Packet-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="55" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="55" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/VSPZGkdp2c/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height="55" alt="Email" />
