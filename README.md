@@ -5,7 +5,7 @@
 <h2 align="center"><code>Visual Interface</code></h2>
 
 <div align="center">
-  <img align="center" alt="coding" width="500" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
   
   <br/>
@@ -17,7 +17,7 @@
   <br/>
 
   <p><code>>_ AI_CORE_STATUS: ONLINE</code></p>
-  <img src="https://media.tenor.com/yhaa2jvPoygAAAAi/ai-grok.gif" width="150" alt="glitch code" />
+  <img align="center" alt="coding" width="500" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
 </div>
 
 <div align="center">
