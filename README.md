@@ -57,7 +57,7 @@
       <details>
       <summary><code><b>>_ sudo view_learning_strategy.log</b></code> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"></summary>
       <br>
-      <code>while awake:</code><br>
+      <code>while (awake==True):</code><br>
       <code>  1.solve("Leetcode_medium")</code><br>
       <code>  2. train(brain, topics=["LLMs", "RAG", "Agentic AI"])</code><br>
       <code>  3. ship(ai_powered_projects)</code>
@@ -94,22 +94,21 @@
 
 <h2 align="center">
   <img src="https://media.tenor.com/G4GdvEotPhoAAAAm/web-hack-hacker.webp" width="35px" style="vertical-align:middle"> 
-  <code style="color: #39FF14;">root@manish:~/social_uplink</code> 
+  <code style="color: #39FF14;">Social Uplink</code> 
   <img src="https://media.tenor.com/G4GdvEotPhoAAAAm/web-hack-hacker.webp" width="35px" style="vertical-align:middle">
 </h2>
 
 <div align="center">
   <p><code>[STATUS: LISTENING_ON_ALL_PORTS...]</code></p>
   <br>
-
-  <a href="https://instagram.com/manishhhh.m">
-    <img src="https://img.shields.io/badge/>_Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="55" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/manish-moger">
+  <a href="https://www.linkedin.com/in/dishar28/">
     <img src="https://img.shields.io/badge/>_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="55" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp; <a href="mailto:manishmoger75@gmail.com">
+  &nbsp;&nbsp;&nbsp; <a href="mailto:acharyardisha@gmail.com">
     <img src="https://img.shields.io/badge/>_Send_Packet-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="55" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/VSPZGkdp2c/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height="55" alt="Email" />
   </a>
   <br><br>
 </div>
@@ -120,7 +119,7 @@
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54).![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white). ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)]![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black). ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white).[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 
 <<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
