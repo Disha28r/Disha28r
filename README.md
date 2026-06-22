@@ -141,13 +141,13 @@
 ### 🧪 Others
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<<div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+<div align = "center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disha28r&show_icons=true&locale=en&layout=compact" alt="disha28r" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=disha28r&show_icons=true&locale=en&layout=compact" alt="disha28r" /></p>
+<p>&nbsp&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disha28r&show_icons=true&locale=en" alt="disha28r" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disha28r&show_icons=true&locale=en" alt="disha28r" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disha28r&" alt="disha28r" /></p>
-
+<p>&nbsp&nbsp&nbsp&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disha28r&" alt="disha28r" /></p>
+</div>
