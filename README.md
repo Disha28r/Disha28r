@@ -72,14 +72,14 @@
 <table border="0">
   <tr>
     <td width="30%" align="center">
-      <img src="https://media1.tenor.com/m/qTyqeRi-VCwAAAAC/collab-collaboration.gif" width="100%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhiN3Bya2o1NHF0Z3Q3ZnNiaDBhZXliNGhybzFiODNhd2oyMXF3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SCxRd3Bx086zIBJaPD/giphy.gif" width="100%">
     </td>
     <td width="70%">
       <h3><code>Network Handshake</code></h3>
       <p>
         <code>if project == "OpenSource" and lang == "Python": </code><br>
-        &nbsp;&nbsp;<code>initiate_collaboration();</code><br>
-        <code></code>
+        &nbsp;&nbsp;<code>initiate_collaboration();</code>
+        <br>
       </p>
       <p>Looking for exciting <b>AI/ML</b> and <b>Generative AI</b> projects. If you're building with <b>LLMs</b>, <b>RAG</b>, or <b>Agentic AI</b>, I'd love to contribute!</p>
       <a href="mailto:acharyardisha@gmail.com"><img src="https://img.shields.io/badge/>_ EXECUTE_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
