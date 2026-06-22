@@ -55,7 +55,7 @@
         <code>>_ ANALYZING:</code> Architecture of large-scale signage displays.<br>
       </p>
       <details>
-      <summary><code><b>>_ sudo view_learning_strategy.log</b></code> <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://giphy.com/gifs/pudgypenguins-learning-learn-midterm-E8xusSHsJGepz3UbtX)" width="20"></summary>
+      <summary><code><b>>_ sudo view_learning_strategy.log</b></code> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://giphy.com/gifs/pudgypenguins-learning-learn-midterm-E8xusSHsJGepz3UbtX" width="20"></summary>
       <br>
       <code>while awake:</code><br>
       <code>  1.solve("Leetcode_medium")</code><br>
