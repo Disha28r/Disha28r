@@ -75,14 +75,14 @@
       <img src="https://media1.tenor.com/m/qTyqeRi-VCwAAAAC/collab-collaboration.gif" width="100%">
     </td>
     <td width="70%">
-      <h3><code>root@manish:~/network_handshake</code></h3>
+      <h3><code>Network Handshake</code></h3>
       <p>
-        <code>if (project == "OpenSource" && lang == "Java || Python") {</code><br>
+        <code>if project == "OpenSource" and lang == "Python": </code><br>
         &nbsp;&nbsp;<code>initiate_collaboration();</code><br>
-        <code>}</code>
+        <code></code>
       </p>
-      <p>Looking for <b>Full Stack</b> challenges. If you have a repo that needs a commit, count me in!</p>
-      <a href="mailto:manishmoger75@gmail.com"><img src="https://img.shields.io/badge/>_ EXECUTE_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <p>Looking for exciting <b>AI/ML</b> and <b>Generative AI</b> projects. If you're building with <b>LLMs</b>, <b>RAG</b>, or <b>Agentic AI</b>, I'd love to contribute!</p>
+      <a href="mailto:acharyardisha@gmail.com"><img src="https://img.shields.io/badge/>_ EXECUTE_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </td>
   </tr>
 </table>
