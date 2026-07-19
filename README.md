@@ -52,7 +52,7 @@
       <p>
         <code>>_ STATUS:</code> <b>Processing Data...</b><br>
         My neural net is currently absorbing <b>DSA Patterns</b>.<br>
-        <code>>_ ANALYZING:</code> Architecture of large-scale signage displays.<br>
+        <code>>_ ANALYZING:</code> Crafting next-generation AI applications.<br>
       </p>
       <details>
       <summary><code><b>>view_learning_strategy.py</b></code> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"></summary>
