@@ -151,3 +151,52 @@
 
 <p>&nbsp&nbsp&nbsp&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disha28r&" alt="disha28r" /></p>
 </div> 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<h2 align="center">
+  <code>>_ ACTIVE_PROJECTS.exe 🚀</code>
+</h2>
+
+<div align="center">
+
+| 🚧 Project | 🧠 Description | ⚡ Status |
+|------------|---------------|----------|
+| 🎯 **TalentMatch AI** | AI-powered Resume Screening, Candidate Ranking & Interview Question Generator using LLMs | 🟢 Active |
+| 🤖 **Mental Health AI Companion** | Personalized AI chatbot for emotional support with memory, journaling and wellness insights | 🟡 Planning |
+| 🧩 **DSA Journey** | Solving LeetCode problems in Python while mastering patterns and problem solving | 🟢 Daily |
+| 🧠 **Agentic AI Experiments** | Building autonomous AI agents with LLMs, tools, memory and workflows | 🟢 Learning |
+
+</div>
+
+<br>
+
+<details>
+<summary><b><code>> view_project_queue.py</code></b> 👀</summary>
+
+```python
+class Disha:
+
+    currently_building = [
+        "TalentMatch AI",
+        "Mental Health AI Companion",
+        "Agentic AI Applications"
+    ]
+
+    currently_learning = [
+        "LLMs",
+        "RAG",
+        "FastAPI",
+        "Advanced DSA",
+        "Production AI"
+    ]
+
+    mission = "Build AI products that solve real-world problems."
+```
+
+</details>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
