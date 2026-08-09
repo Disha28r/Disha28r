@@ -163,7 +163,7 @@
 
 | 🚧 Project | 🧠 Description | ⚡ Status |
 |------------|---------------|----------|
-| 🎯 **TalentMatch AI** | AI-powered Resume Screening, Candidate Ranking & Interview Question Generator using LLMs | 🟢 Active | 
+| 🎯 **TalentMatch AI** |AI-powered Hiring Platform with Resume Screening, Candidate Ranking, Interview Scheduling & Real-time AI Interviews| 🟢 Active | 
 | 🤖 **Mental Health AI Companion** | Personalized AI chatbot for emotional support with memory, journaling and wellness insights | 🟡 Planning |
 | 🧩 **DSA Journey** | Solving LeetCode problems in Python while mastering patterns and problem solving | 🟢 Daily |
 | 🧠 **Agentic AI Experiments** | Building autonomous AI agents with LLMs, tools, memory and workflows | 🟢 Learning |
