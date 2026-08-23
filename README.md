@@ -36,14 +36,9 @@
 
 
 <td width="70%">
-  <h3><code>Mission Control</code></h3>
+ <h3><code>Who Am I?</code></h3>
 
-  <p>
-    <code>>_ TARGET:</code> <b>Scalable AI Solutions</b><br>
-    <code>>_ ACTION:</code> Deep-diving into <mark>LLMs</mark>, <mark>RAG</mark>, <mark>Agentic AI</mark>, <mark>FastAPI</mark>, <mark>Django/Flask</mark> and <mark>Production ML Systems</mark>.<br><br>
-    <code>>_ SUB_PROCESS:</code> <b>Grinding while pretending not to panic</b><br>
-    Simultaneously sharpening problem-solving skills with <b>DSA</b>.
-  </p>
+<p> <code>>_ ROLE:</code> <b>Software Engineer</b><br> <code>>_ EXPERIENCE:</code> <b>2 Years in Software & Automation</b><br> <code>>_ CORE:</code> <b>Python & Test Automation</b><br> <code>>_ EXPLORING:</code> <b>Generative AI, LLMs, RAG & Agentic AI</b><br> <code>>_ DIRECTION:</code> <b>Growing into an AI Engineer</b> </p>
 </td>
 
   </tr>
