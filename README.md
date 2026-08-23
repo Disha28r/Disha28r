@@ -38,7 +38,7 @@
 <td width="70%">
  <h3><code>Who Am I?</code></h3>
 
-<p> <code>>_ ROLE:</code> <b>Software Engineer</b><br> <code>>_ EXPERIENCE:</code> <b>2 Years in Software & Automation</b><br> <code>>_ CORE:</code> <b>Python & Test Automation</b><br> <code>>_ EXPLORING:</code> <b>Generative AI, LLMs, RAG & Agentic AI</b><br> <code>>_ DIRECTION:</code> <b>Growing into an AI Engineer</b> </p>
+<p> <code>>ROLE:</code> <b>Software Engineer</b><br> <code>>EXPERIENCE:</code> <b>2 Years in Software & Automation</b><br> <code>>CORE:</code> <b>Python & Test Automation</b><br> <code>>EXPLORING:</code> <b>Generative AI, LLMs, RAG & Agentic AI</b><br> <code>>DIRECTION:</code> <b>Growing into an AI Engineer</b> </p>
 </td>
 
   </tr>
@@ -46,14 +46,7 @@
 
 <table border="0">
   <tr>
-    <td width="70%">
-      <h3><code>How I Work</code></h3>
-
-
-  <p>
-    I like building practical solutions from real problems, using the right tools for the job — from <b>Python</b> and <b>FastAPI</b> to <b>LLMs</b>, <b>RAG</b>, and <b>Agentic AI</b>.
-  </p>
-</td>
+    <td width="70%"> <h3><code>Mission Control</code></h3> <p> <code>>_ TARGET:</code> <b>Scalable AI Solutions</b><br> <code>>_ ACTION:</code> Deep-diving into <mark>LLMs</mark>, <mark>RAG</mark>, <mark>Agentic AI</mark>, <mark>FastAPI</mark>, <mark>Django/Flask</mark> and <mark>Production ML Systems</mark>.<br><br> <code>>_ SUB_PROCESS:</code> <b>Grinding while pretending not to panic</b><br> Simultaneously sharpening problem-solving skills with <b>DSA</b>. </p> </td>
 
 <td width="30%" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NW1rMHVvZGVyZXZteTI2Z3ZicHkzM2RpdDA5YnFxMXUweDFsamRoZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ARh6yuPOqx6TDN4hd/giphy.gif" width="100%">
