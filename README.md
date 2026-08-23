@@ -30,12 +30,12 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="70%" align="center">
+    <td width="30%" align="center">
       <img src="https://media.tenor.com/6JptszQgCnkAAAAm/text-work.webp" width="100%">
     </td>
 
 
-<td width="70%">
+<td width="100%">
  <h3><code>Who Am I?</code></h3>
 
 <p> <code>>ROLE:</code> <b>Software Engineer</b><br> <code>>EXPERIENCE:</code> <b>2 Years in Software & Automation</b><br> <code>>CORE:</code> <b>Python & Test Automation</b><br> <code>>EXPLORING:</code> <b>Generative AI, LLMs, RAG & Agentic AI</b><br> <code>>DIRECTION:</code> <b>Growing into an AI Engineer</b> </p>
