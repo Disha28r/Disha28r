@@ -56,25 +56,8 @@
 
 
   <p>
-    <code>>_ STATUS:</code> <b>BUILD_MODE: ACTIVE</b><br>
-    I learn by turning concepts into something I can actually build.<br>
-    <code>>_ APPROACH:</code> <b>Understand → Experiment → Build → Debug → Improve → Ship</b>
+    I like building practical solutions from real problems, using the right tools for the job — from <b>Python</b> and <b>FastAPI</b> to <b>LLMs</b>, <b>RAG</b>, and <b>Agentic AI</b>.
   </p>
-
-  <details>
-    <summary>
-      <code><b>>_ how_i_work.py</b></code>
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
-    </summary>
-
-<br/>
-
-<pre>
-<code>I like to build things by starting with a real problem, breaking it down into smaller pieces, and exploring different approaches. I use tools like **Python, FastAPI, LLMs, RAG, and Agentic AI** to turn ideas into practical applications, while using **SQL, Django/Flask, and React** where they fit the project. I prefer to experiment, build, test, and keep improving until the solution actually works.
-</code>
-</pre>
-
-</details>
 </td>
 
 <td width="30%" align="center">
@@ -84,6 +67,7 @@
 
   </tr>
 </table>
+
 
 <table border="0">
   <tr>
