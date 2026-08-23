@@ -1,158 +1,189 @@
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h1><code>👽 DISHA R 👽</code></h1>
-
-<p><code>>_ INITIALIZING_AI_ENGINEER.exe</code></p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=FF2E63&center=true&vCenter=true&width=700&lines=Python+Developer;Aspiring+AI+Engineer;DSA+%7C+GenAI+%7C+LLMs;RAG+%7C+Agentic+AI;Building+AI-powered+Applications;Open+Source+Contributor" alt="Typing Animation" />
-
-<br>
-
-<p><code>>_ AI_CORE_STATUS: 🟢 ONLINE</code></p>
-
-<img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" width="500">
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
-
-<h2 align="center"><code>>_ WHO_AM_I.exe</code></h2>
+<h2 align="center"><code>👽DISHA R👽</code></h2>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-```text
-╔══════════════════════════════════════════════════╗
-║              👽 DISHA R // PROFILE               ║
-╠══════════════════════════════════════════════════╣
-║ Role       : Python Developer                    ║
-║ Mission    : Become an AI Engineer               ║
-║ Weapon     : Python 🐍                           ║
-║ Currently  : DSA + Generative AI                 ║
-║ Exploring  : LLMs + RAG + Agentic AI             ║
-║ Building   : AI-powered applications             ║
-║ Status     : Learning → Building → Shipping      ║
-╚══════════════════════════════════════════════════╝
-```
+  <br/>
 
+  <p><code>>_ EXECUTING_PROFILE_SCRIPT_..</code></p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+AI+Engineer;Mastering+DSA;AI+ML;Generative+AI+/+LLMs;Agentic+AI+Applications;Open+Source+Contributor" alt="Typing Animation" />
+
+  <br/>
+
+  <p><code>>_ AI_CORE_STATUS: ONLINE</code></p>
+
+  <img align="center" alt="coding" width="500" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
 </div>
-
-<p align="center">
-I'm a developer who enjoys turning curiosity into working software.
-Currently focused on strengthening my problem-solving skills with <b>DSA</b> while building deeper expertise in <b>Generative AI, LLMs, RAG and Agentic AI</b>.
-</p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h2 align="center"><code>>_ CURRENT_MISSION 🚀</code></h2>
+<h2 align="center"><code>>_ ESTABLISHING_SECURE_CONNECTION... 🟢</code></h2>
 
 <div align="center">
 
 <table border="0">
-<tr>
-<td width="50%" align="center">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media.tenor.com/6JptszQgCnkAAAAm/text-work.webp" width="100%">
+    </td>
 
-<h3>🧠 LEARNING</h3>
+```
+<td width="70%">
+  <h3><code>Mission Control</code></h3>
 
-<code>DSA Patterns</code><br> <code>Generative AI</code><br> <code>LLMs</code><br> <code>RAG Systems</code><br> <code>Agentic AI</code><br> <code>FastAPI</code>
+  <p>
+    <code>>_ TARGET:</code> <b>Scalable AI Solutions</b><br>
+    <code>>_ ACTION:</code> Deep-diving into <mark>LLMs</mark>, <mark>RAG</mark>, <mark>Agentic AI</mark>, <mark>FastAPI</mark>, <mark>Django/Flask</mark> and <mark>Production ML Systems</mark>.<br><br>
+    <code>>_ SUB_PROCESS:</code> <b>Grinding while pretending not to panic</b><br>
+    Simultaneously sharpening problem-solving skills with <b>DSA</b>.
+  </p>
+</td>
+```
 
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td width="70%">
+      <h3><code>How I Work</code></h3>
+
+```
+  <p>
+    <code>>_ STATUS:</code> <b>BUILD_MODE: ACTIVE</b><br>
+    I learn by turning concepts into something I can actually build.<br>
+    <code>>_ APPROACH:</code> Understand → Experiment → Build → Debug → Improve → Ship
+  </p>
+
+  <details>
+    <summary>
+      <code><b>>_ how_i_work.py</b></code>
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
+    </summary>
+
+    <br>
+
+    <code>def how_i_work():</code><br>
+    <code>&nbsp;&nbsp;&nbsp;&nbsp;understand("the_problem")</code><br>
+    <code>&nbsp;&nbsp;&nbsp;&nbsp;experiment("the_idea")</code><br>
+    <code>&nbsp;&nbsp;&nbsp;&nbsp;build("the_solution")</code><br>
+    <code>&nbsp;&nbsp;&nbsp;&nbsp;debug("what_broke")</code><br>
+    <code>&nbsp;&nbsp;&nbsp;&nbsp;improve("what_can_be_better")</code><br>
+    <code>&nbsp;&nbsp;&nbsp;&nbsp;ship("something_useful")</code><br>
+    <br>
+    <code>&nbsp;&nbsp;&nbsp;&nbsp;return "repeat 🔄"</code>
+
+  </details>
 </td>
 
-<td width="50%" align="center">
-
-<h3>⚙️ BUILDING</h3>
-
-<code>AI Applications</code><br> <code>Resume Intelligence</code><br> <code>AI Agents</code><br> <code>LLM Workflows</code><br> <code>Production-oriented APIs</code><br> <code>Open Source Projects</code>
-
+<td width="30%" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NW1rMHVvZGVyZXZteTI2Z3ZicHkzM2RpdDA5YnFxMXUweDFsamRoZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ARh6yuPOqx6TDN4hd/giphy.gif" width="100%">
 </td>
-</tr>
+```
+
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhiN3Bya2o1NHF0Z3Q3ZnNiaDBhZXliNGhybzFiODNhd2oyMXF3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SCxRd3Bx086zIBJaPD/giphy.gif" width="100%">
+    </td>
+
+```
+<td width="70%">
+  <h3><code>Network Handshake</code></h3>
+
+  <p>
+    <code>if project == "OpenSource" and lang == "Python":</code><br>
+    &nbsp;&nbsp;<code>initiate_collaboration();</code>
+  </p>
+
+  <p>
+    Looking for exciting <b>AI/ML</b> and <b>Generative AI</b> projects.
+    If you're building with <b>LLMs</b>, <b>RAG</b>, or <b>Agentic AI</b>,
+    I'd love to contribute!
+  </p>
+
+  <a href="mailto:acharyardisha@gmail.com">
+    <img src="https://img.shields.io/badge/>_ EXECUTE_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</td>
+```
+
+  </tr>
 </table>
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-<h2 align="center"><code>>_ LEARNING_PROTOCOL.py</code></h2>
+<h2 align="center">
+  <img src="https://media.tenor.com/G4GdvEotPhoAAAAm/web-hack-hacker.webp" width="35px" style="vertical-align:middle">
+  <code style="color: #39FF14;">Social Uplink</code>
+  <img src="https://media.tenor.com/G4GdvEotPhoAAAAm/web-hack-hacker.webp" width="35px" style="vertical-align:middle">
+</h2>
 
 <div align="center">
 
-<details>
-<summary><code><b>▶ execute_learning_strategy()</b></code></summary>
+  <p><code>[STATUS: LISTENING_ON_ALL_PORTS...]</code></p>
 
-<br>
+  <br>
 
-```python
-while awake:
+  <a href="https://www.linkedin.com/in/dishar28/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="55" alt="LinkedIn" />
+  </a>
 
-    solve("DSA")
+   
 
-    learn([
-        "Generative AI",
-        "LLMs",
-        "RAG",
-        "Agentic AI"
-    ])
+  <a href="mailto:acharyardisha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="55" alt="Email" />
+  </a>
 
-    build("AI-powered projects")
+   
 
-    ship()
+  <a href="https://leetcode.com/u/VSPZGkdp2c/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height="55" alt="LeetCode" />
+  </a>
 
-    repeat()
-```
-
-<br>
-
-<code>>_ ERROR: motivation_not_found</code><br> <code>>_ SOLUTION: build_anyway()</code>
-
-</details>
+<br><br>
 
 </div>
-
----
-
-<h2 align="center"><code>>_ ACTIVE_PROJECTS.exe 🚀</code></h2>
 
 <div align="center">
-
-| 🚧 Project                        | 🧠 Description                                                                                                        |   ⚡ Status  |
-| :-------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :---------: |
-| 🎯 **TalentMatch AI**             | AI-powered hiring platform with resume screening, candidate ranking, interview scheduling and real-time AI interviews |  🟢 Active  |
-| 🤖 **Mental Health AI Companion** | AI companion exploring conversational memory, journaling and personalized wellness interactions                       | 🟡 Planning |
-| 🧩 **DSA Journey**                | Solving LeetCode problems in Python while learning patterns and improving problem-solving                             |   🟢 Daily  |
-| 🧠 **Agentic AI Experiments**     | Exploring LLM-powered agents, tools, memory and autonomous workflows                                                  | 🟢 Learning |
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
----
+## 💻 Tech Stack
 
-<h2 align="center"><code>>_ TECH_STACK.sh</code></h2>
-
-### 🐍 Languages
+### 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
 
-### 🤖 AI / ML / GenAI
+### 🤖 AI & Machine Learning
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat\&logo=mlflow\&logoColor=white)
 
-### 🧠 LLM / AI Application Development
+### ⚙️ Backend & Web Development
 
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat)
-![RAG](https://img.shields.io/badge/RAG-7B61FF?style=flat)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF2E63?style=flat)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-
-### ⚙️ Backend / Web
-
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
@@ -164,97 +195,72 @@ while awake:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 
+### ☁️ Cloud & DevOps & Version Control
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat\&logo=google-cloud\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+
 ### 📊 Data & Visualization
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?style=flat)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
 
-### 🛠️ Tools
+### 🧪 Others
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat\&logo=selenium\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- GitHub Stats -->
+
+<!--
+<div align="center">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disha28r&show_icons=true&locale=en&layout=compact" alt="disha28r" />
+  </p>
+
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=disha28r&show_icons=true&locale=en" alt="disha28r" />
+  </p>
+</div>
+-->
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2><code>>_ OPEN_SOURCE.exe 🌐</code></h2>
-
-<p>
-Interested in collaborating on <b>AI/ML, Generative AI, LLM, RAG</b> and <b>Agentic AI</b> projects.
-</p>
-
-<p>
-<code>if project == "OpenSource" and lang == "Python":</code><br>
-<code>&nbsp;&nbsp;&nbsp;&nbsp;initiate_collaboration()</code>
-</p>
-
-<a href="mailto:acharyardisha@gmail.com">
-<img src="https://img.shields.io/badge/%3E__EXECUTE_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=disha28r&" alt="disha28r" />
+  </p>
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <h2 align="center">
-<code>>_ SOCIAL_UPLINK 🔗</code>
+  <code>>_ ACTIVE_PROJECTS.exe 🚀</code>
 </h2>
 
 <div align="center">
 
-<p><code>[STATUS: LISTENING_ON_ALL_PORTS...]</code></p>
-
-<a href="https://www.linkedin.com/in/dishar28/">
-<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="45" alt="LinkedIn">
-</a>
-
-  
-
-<a href="mailto:acharyardisha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="45" alt="Email">
-</a>
-
-  
-
-<a href="https://leetcode.com/u/VSPZGkdp2c/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height="45" alt="LeetCode">
-</a>
+| 🚧 Project                        | 🧠 Description                                                                                                      | ⚡ Status    |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 🎯 **TalentMatch AI**             | AI-powered Hiring Platform with Resume Screening, Candidate Ranking, Interview Scheduling & Real-time AI Interviews | 🟢 Active   |
+| 🤖 **Mental Health AI Companion** | Personalized AI chatbot for emotional support with memory, journaling and wellness insights                         | 🟡 Planning |
+| 🧩 **DSA Journey**                | Solving LeetCode problems in Python while mastering patterns and problem solving                                    | 🟢 Daily    |
+| 🧠 **Agentic AI Experiments**     | Building autonomous AI agents with LLMs, tools, memory and workflows                                                | 🟢 Learning |
 
 </div>
-
----
-
-<div align="center">
-
-<h2><code>>_ CODING_ACTIVITY.log 📊</code></h2>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=disha28r" alt="Disha's GitHub streak">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=disha28r&theme=react-dark" alt="Disha's GitHub activity graph">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
-<code>👽 curiosity.exe is always running 👽</code>
-
-<br><br>
-
-<code>while (learning): build → break → debug → learn → repeat</code>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
