@@ -45,7 +45,6 @@
     Simultaneously sharpening problem-solving skills with <b>DSA</b>.
   </p>
 </td>
-```
 
   </tr>
 </table>
@@ -71,14 +70,8 @@
 <br/>
 
 <pre>
-<code>def how_i_work():
-    understand("the_problem")
-    experiment("the_idea")
-    build("the_solution")
-    debug("what_broke")
-    improve("what_can_be_better")
-    ship("something_useful")
-    return "repeat 🔄"</code>
+<code>I like to build things by starting with a real problem, breaking it down into smaller pieces, and exploring different approaches. I use tools like **Python, FastAPI, LLMs, RAG, and Agentic AI** to turn ideas into practical applications, while using **SQL, Django/Flask, and React** where they fit the project. I prefer to experiment, build, test, and keep improving until the solution actually works.
+</code>
 </pre>
 
 </details>
@@ -138,31 +131,20 @@
 
   <br>
 
-  <a href="https://www.linkedin.com/in/dishar28/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="55" alt="LinkedIn" />
-  </a>
-
-   
-
-  <a href="mailto:acharyardisha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="55" alt="Email" />
-  </a>
-
-   
-
-  <a href="https://leetcode.com/u/VSPZGkdp2c/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height="55" alt="LeetCode" />
-  </a>
+<a href="https://www.linkedin.com/in/dishar28/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="55" alt="LinkedIn" /></a>
+    <a href="mailto:acharyardisha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="55" alt="Email" /></a>
+    <a href="https://leetcode.com/u/VSPZGkdp2c/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height="55" alt="LeetCode" /></a>
 
 <br><br>
 
 </div>
 
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 💻 Tech Stack
+## 💻 Tech Stack i prefer
 
 ### 👨‍💻 Languages
 
@@ -258,9 +240,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+
 <div align="center">
 
 <h2><code>>_ CODING_ACTIVITY.log 📊</code></h2>
