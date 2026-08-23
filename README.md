@@ -34,7 +34,7 @@
       <img src="https://media.tenor.com/6JptszQgCnkAAAAm/text-work.webp" width="100%">
     </td>
 
-```
+
 <td width="70%">
   <h3><code>Mission Control</code></h3>
 
@@ -55,11 +55,11 @@
     <td width="70%">
       <h3><code>How I Work</code></h3>
 
-```
+
   <p>
     <code>>_ STATUS:</code> <b>BUILD_MODE: ACTIVE</b><br>
     I learn by turning concepts into something I can actually build.<br>
-    <code>>_ APPROACH:</code> Understand → Experiment → Build → Debug → Improve → Ship
+    <code>>_ APPROACH:</code> <b>Understand → Experiment → Build → Debug → Improve → Ship</b>
   </p>
 
   <details>
@@ -68,25 +68,26 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
     </summary>
 
-    <br>
+<br/>
 
-    <code>def how_i_work():</code><br>
-    <code>&nbsp;&nbsp;&nbsp;&nbsp;understand("the_problem")</code><br>
-    <code>&nbsp;&nbsp;&nbsp;&nbsp;experiment("the_idea")</code><br>
-    <code>&nbsp;&nbsp;&nbsp;&nbsp;build("the_solution")</code><br>
-    <code>&nbsp;&nbsp;&nbsp;&nbsp;debug("what_broke")</code><br>
-    <code>&nbsp;&nbsp;&nbsp;&nbsp;improve("what_can_be_better")</code><br>
-    <code>&nbsp;&nbsp;&nbsp;&nbsp;ship("something_useful")</code><br>
-    <br>
-    <code>&nbsp;&nbsp;&nbsp;&nbsp;return "repeat 🔄"</code>
+<pre>
+<code>def how_i_work():
+    understand("the_problem")
+    experiment("the_idea")
+    build("the_solution")
+    debug("what_broke")
+    improve("what_can_be_better")
+    ship("something_useful")
+    return "repeat 🔄"</code>
+</pre>
 
-  </details>
+</details>
 </td>
 
 <td width="30%" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NW1rMHVvZGVyZXZteTI2Z3ZicHkzM2RpdDA5YnFxMXUweDFsamRoZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ARh6yuPOqx6TDN4hd/giphy.gif" width="100%">
 </td>
-```
+
 
   </tr>
 </table>
@@ -97,7 +98,6 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhiN3Bya2o1NHF0Z3Q3ZnNiaDBhZXliNGhybzFiODNhd2oyMXF3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SCxRd3Bx086zIBJaPD/giphy.gif" width="100%">
     </td>
 
-```
 <td width="70%">
   <h3><code>Network Handshake</code></h3>
 
@@ -116,7 +116,6 @@
     <img src="https://img.shields.io/badge/>_ EXECUTE_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </td>
-```
 
   </tr>
 </table>
@@ -217,8 +216,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- GitHub Stats -->
-
 <!--
 <div align="center">
   <p>
@@ -263,4 +260,29 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+<div align="center">
+
+<h2><code>>_ CODING_ACTIVITY.log 📊</code></h2>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=disha28r" alt="Disha's GitHub streak">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=disha28r&theme=react-dark" alt="Disha's GitHub activity graph">
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br>
+
+<code>👽 curiosity.exe is always running 👽</code>
+
+<br><br>
+
+<code>while (learning): build → break → debug → learn → repeat</code>
+
 </div>
