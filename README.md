@@ -193,6 +193,7 @@
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 🎯 **TalentMatch AI**             | AI-powered Hiring Platform with Resume Screening, Candidate Ranking, Interview Scheduling & Real-time AI Interviews | 🟢 Active   |
 | 🤖 **SolaceAI-Mental Health AI Companion** | Personalized AI chatbot for emotional support with memory, journaling and wellness insights                         | 🟡 Planning |
+|🌍 EarlyLightAI-A warning before danger arrives     | AI-powered disaster early-warning system for localized, verified & accessible emergency information| 🔵 Future|
 | 🧩 **DSA Journey**                | Solving LeetCode problems in Python while mastering patterns and problem solving                                    | 🟢 Daily    |
 | 🧠 **Agentic AI Experiments**     | Building autonomous AI agents with LLMs, tools, memory and workflows                                                | 🟢 Learning |
 
