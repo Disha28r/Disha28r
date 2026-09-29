@@ -189,14 +189,13 @@
 
 <div align="center">
 
-| 🚧 Project                        | 🧠 Description                                                                                                      | ⚡ Status    |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------- |
-| 🎯**[TalentMatch AI](https://talentmatch-recruiter.onrender.com/)**            | AI-powered Hiring Platform with Resume Screening, Candidate Ranking, Interview Scheduling & Real-time AI Interviews | 🟢 Completed 🚀   |
-| 🤖 **SolaceAI-Mental Health AI Companion** | Personalized AI chatbot for emotional support with memory, journaling and wellness insights                         | 🟡 Planning |
-|🌍 EarlyLightAI-A warning before danger arrives     | AI-powered disaster early-warning system for localized, verified & accessible emergency information| 🔵 Future|
-| 🧩 **DSA Journey**                | Solving LeetCode problems in Python while mastering patterns and problem solving                                    | 🟢 Daily    |
-| 🧠 **Agentic AI Experiments**     | Building autonomous AI agents with LLMs, tools, memory and workflows                                                | 🟢 Learning |
-
+| 🚧 Project | 🧠 What it does | ⚡ Status | 🔗 Links |
+|---|---|---|---|
+| 🎯 **TalentMatch AI** | AI-powered hiring platform for resume screening, candidate ranking, skill-gap analysis & AI interviews | 🟢 Completed 🚀 | [🌐 Live Demo](https://talentmatch-recruiter.onrender.com/) |
+| 🤖 **SolaceAI – Mental Health AI Companion** | Personalized AI chatbot for emotional support, memory, journaling & wellness insights | 🟡 Planning | — |
+| 🌍 **EarlyLightAI – A Warning Before Danger Arrives** | AI-powered disaster early-warning system for localized, verified & accessible emergency information | 🔵 Future | — |
+| 🧩 **DSA Journey** | Solving LeetCode problems in Python while mastering patterns & problem solving | 🟢 Daily | — |
+| 🧠 **Agentic AI Experiments** | Building autonomous AI agents with LLMs, tools, memory & workflows | 🟢 Learning | — |
 </div>
 
 <br>
