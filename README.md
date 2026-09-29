@@ -191,7 +191,7 @@
 
 | 🚧 Project | 🧠 What it does | ⚡ Status | 🔗 Links |
 |---|---|---|---|
-| 🎯 **TalentMatch AI** | AI-powered hiring platform for resume screening, candidate ranking, skill-gap analysis & AI interviews | 🟢 Completed 🚀 | [🌐 Live Demo](https://talentmatch-recruiter.onrender.com/) |
+| 🎯 **TalentMatch AI** | AI-powered hiring platform for resume screening, candidate ranking, skill-gap analysis & AI interviews | 🟢 Completed 🚀 | [🌐 TalentMatch AI](https://talentmatch-recruiter.onrender.com/) |
 | 🤖 **SolaceAI – Mental Health AI Companion** | Personalized AI chatbot for emotional support, memory, journaling & wellness insights | 🟡 Planning | — |
 | 🌍 **EarlyLightAI – A Warning Before Danger Arrives** | AI-powered disaster early-warning system for localized, verified & accessible emergency information | 🔵 Future | — |
 | 🧩 **DSA Journey** | Solving LeetCode problems in Python while mastering patterns & problem solving | 🟢 Daily | — |
