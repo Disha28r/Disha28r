@@ -58,9 +58,9 @@ If you're building with **LLMs, RAG, AI agents or automation**, feel free to rea
 
 <br>
 
-<a href="mailto:acharyardisha@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20acharyardisha@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:acharyardisha@gmail.com">
+    <img src="https://img.shields.io/badge/>_ EXECUTE_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </td>
 
