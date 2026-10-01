@@ -116,14 +116,6 @@ If you're building with **LLMs, RAG, AI agents or automation**, feel free to rea
 
 AI-powered recruitment platform for resume screening and candidate matching.
 
-**Features**
-
-- Resume parsing
-- Candidate ranking
-- Skill-gap analysis
-- LLM-powered evaluation
-- AI-generated interview questions
-
 **Tech**
 
 `Python` `Streamlit` `Groq` `Llama` `GenAI`
@@ -141,13 +133,6 @@ AI-powered recruitment platform for resume screening and candidate matching.
 ### 🤖 SolaceAI
 
 Personalized AI companion focused on conversations, memory, journaling and wellness insights.
-
-**Exploring**
-
-- LLM-powered conversations
-- Personalized memory
-- Journaling
-- AI insights
 
 **Tech**
 
