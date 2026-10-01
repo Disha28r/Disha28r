@@ -211,31 +211,21 @@ Real-time face recognition system for automated attendance tracking.
 
 <div align="center">
 
-<a href="https://github.com/Disha28r/YOUR-TALENTMATCH-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Disha28r&repo=YOUR-TALENTMATCH-REPO&bg_color=161b22&title_color=f0f6fc&text_color=8b949e&icon_color=8b949e&border_color=30363d" />
-</a>
-
-<a href="https://github.com/Disha28r/YOUR-SOLACEAI-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Disha28r&repo=YOUR-SOLACEAI-REPO&bg_color=161b22&title_color=f0f6fc&text_color=8b949e&icon_color=8b949e&border_color=30363d" />
-</a>
-
-<br>
-
 <a href="https://github.com/Disha28r/Scamsniffer-A-phishing-detection-tool">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Disha28r&repo=Scamsniffer-A-phishing-detection-tool&bg_color=161b22&title_color=f0f6fc&text_color=8b949e&icon_color=8b949e&border_color=30363d" />
-</a>
-
-<a href="https://github.com/Disha28r/YOUR-FACE-RECOGNITION-REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Disha28r&repo=YOUR-FACE-RECOGNITION-REPO&bg_color=161b22&title_color=f0f6fc&text_color=8b949e&icon_color=8b949e&border_color=30363d" />
 </a>
 
 </div>
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/Disha28r?tab=repositories">
   <img src="https://img.shields.io/badge/ALL%20REPOSITORIES-21262d?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</div>
 ---
 
 # 📊 GitHub Activity
