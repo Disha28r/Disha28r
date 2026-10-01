@@ -1,228 +1,207 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
-<h2 align="center"><code>👽DISHA R👽</code></h2>
+# 👋 Hi, I'm Disha R
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### Software Engineer | Python | AI/ML | Generative AI
 
-  <br/>
+<p>
+  I build software, automate things, and explore AI through practical projects.
+</p>
 
-  <p><code>>_ EXECUTING_PROFILE_SCRIPT_..</code></p>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+AI+Engineer;Mastering+DSA;AI+ML;Generative+AI+/+LLMs;Agentic+AI+Applications;Open+Source+Contributor" alt="Typing Animation" />
-
-  <br/>
-
-  <p><code>>_ AI_CORE_STATUS: ONLINE</code></p>
-
-  <img align="center" alt="coding" width="500" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<h2 align="center"><code>>_ ESTABLISHING_SECURE_CONNECTION... 🟢</code></h2>
-
-<div align="center">
-
-<table border="0" width="100%">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://media.tenor.com/6JptszQgCnkAAAAm/text-work.webp" width="100%">
-    </td>
-
-
-<td width="100%">
- <h3><code>Who Am I?</code></h3>
-
-<p> <code>>ROLE:</code> <b>Software Engineer</b><br> <code>>EXPERIENCE:</code> <b>2 Years in Software & Automation</b><br> <code>>CORE:</code> <b>Python & Test Automation</b><br> <code>>EXPLORING:</code> <b>Generative AI, LLMs, RAG & Agentic AI</b><br> <code>>DIRECTION:</code> <b>Growing into an AI Engineer</b> </p>
-</td>
-
-  </tr>
-</table>
-
-<table border="0">
-  <tr>
-    <td width="70%"> <h3><code>Mission Control</code></h3> <p> <code>>_ TARGET:</code> <b>Scalable AI Solutions</b><br> <code>>_ ACTION:</code> Deep-diving into <mark>LLMs</mark>, <mark>RAG</mark>, <mark>Agentic AI</mark>, <mark>FastAPI</mark>, <mark>Django/Flask</mark> and <mark>Production ML Systems</mark>.<br><br> <code>>_ SUB_PROCESS:</code> <b>Grinding while pretending not to panic</b><br> Simultaneously sharpening problem-solving skills with <b>DSA</b>. </p> </td>
-
-<td width="30%" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NW1rMHVvZGVyZXZteTI2Z3ZicHkzM2RpdDA5YnFxMXUweDFsamRoZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ARh6yuPOqx6TDN4hd/giphy.gif" width="100%">
-</td>
-
-
-  </tr>
-</table>
-
-
-<table border="0">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhiN3Bya2o1NHF0Z3Q3ZnNiaDBhZXliNGhybzFiODNhd2oyMXF3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SCxRd3Bx086zIBJaPD/giphy.gif" width="100%">
-    </td>
-
-<td width="70%">
-  <h3><code>Network Handshake</code></h3>
-
-  <p>
-    <code>if project == "OpenSource" and lang == "Python":</code><br>
-    &nbsp;&nbsp;<code>initiate_collaboration();</code>
-  </p>
-
-  <p>
-    Looking for exciting <b>AI/ML</b> and <b>Generative AI</b> projects.
-    If you're building with <b>LLMs</b>, <b>RAG</b>, or <b>Agentic AI</b>,
-    I'd love to contribute!
-  </p>
-
-  <a href="mailto:acharyardisha@gmail.com">
-    <img src="https://img.shields.io/badge/>_ EXECUTE_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</td>
-
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/dishar28/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/VSPZGkdp2c/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="mailto:acharyardisha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+---
 
-<h2 align="center">
-  <img src="https://media.tenor.com/G4GdvEotPhoAAAAm/web-hack-hacker.webp" width="35px" style="vertical-align:middle">
-  <code style="color: #39FF14;">Social Uplink</code>
-  <img src="https://media.tenor.com/G4GdvEotPhoAAAAm/web-hack-hacker.webp" width="35px" style="vertical-align:middle">
-</h2>
+## 👩‍💻 About Me
 
-<div align="center">
+- 💻 Software Engineer with 2+ years of experience in software & automation testing
+- 🐍 Working mainly with Python
+- 🤖 Exploring Generative AI, LLMs, RAG & Agentic AI
+- 🧠 Practicing Data Structures & Algorithms
+- 🚀 Building AI-powered applications
+- 🎨 Interested in technology, art and creative projects
 
-  <p><code>[STATUS: LISTENING_ON_ALL_PORTS...]</code></p>
+---
 
-  <br>
+## 🛠️ Technologies
 
-<a href="https://www.linkedin.com/in/dishar28/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="55" alt="LinkedIn" /></a>
-    <a href="mailto:acharyardisha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="55" alt="Email" /></a>
-    <a href="https://leetcode.com/u/VSPZGkdp2c/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height="55" alt="LeetCode" /></a>
+### Languages
 
-<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-</div>
+### AI / ML
 
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+### Backend & Web
 
-## 💻 Tech Stack i prefer
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### 👨‍💻 Languages
+### Databases & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 🤖 AI & Machine Learning
+---
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat\&logo=opencv\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat\&logo=mlflow\&logoColor=white)
+# 🚀 My Top Projects
 
-### ⚙️ Backend & Web Development
+<table>
+<tr>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+<td width="50%" valign="top">
 
-### 🗄️ Databases
+### 🎯 TalentMatch AI
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+AI-powered recruitment platform for resume screening and candidate matching.
 
-### ☁️ Cloud & DevOps & Version Control
+**Features**
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat\&logo=google-cloud\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+- Resume parsing
+- Candidate ranking
+- Skill-gap analysis
+- LLM-powered evaluation
+- AI-generated interview questions
 
-### 📊 Data & Visualization
+**Tech**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?style=flat)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-
-### 🧪 Others
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat\&logo=selenium\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<!--
-<div align="center">
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=disha28r&show_icons=true&locale=en&layout=compact" alt="disha28r" />
-  </p>
-
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=disha28r&show_icons=true&locale=en" alt="disha28r" />
-  </p>
-</div>
--->
-
-
-<h2 align="center">
-  <code>>_ ACTIVE_PROJECTS.exe 🚀</code>
-</h2>
-
-<div align="center">
-
-| 🚧 Project | 🧠 What it does | ⚡ Status | 🔗 Links |
-|---|---|---|---|
-| 🎯 **TalentMatch AI** | AI-powered hiring platform for resume screening, candidate ranking, skill-gap analysis & AI interviews | 🟢 Completed 🚀 | [🌐 TalentMatch AI](https://talentmatch-recruiter.onrender.com/) |
-| 🤖 **SolaceAI – Mental Health AI Companion** | Personalized AI chatbot for emotional support, memory, journaling & wellness insights | 🟡 Planning | — |
-| 🌍 **EarlyLightAI – A Warning Before Danger Arrives** | AI-powered disaster early-warning system for localized, verified & accessible emergency information | 🔵 Future | — |
-| 🧩 **DSA Journey** | Solving LeetCode problems in Python while mastering patterns & problem solving | 🟢 Daily | — |
-| 🧠 **Agentic AI Experiments** | Building autonomous AI agents with LLMs, tools, memory & workflows | 🟢 Learning | — |
-</div>
+`Python` `Streamlit` `Groq` `Llama` `GenAI`
 
 <br>
 
+<a href="https://talentmatch-recruiter.onrender.com/">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-2ea44f?style=for-the-badge" />
+</a>
 
-<div align="center">
+</td>
 
-<h2><code>>_ CODING_ACTIVITY.log 📊</code></h2>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=disha28r" alt="Disha's GitHub streak">
+### 🤖 SolaceAI
 
-<br><br>
+Personalized AI companion focused on conversations, memory, journaling and wellness insights.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=disha28r&theme=react-dark" alt="Disha's GitHub activity graph">
+**Exploring**
 
-</div>
+- LLM-powered conversations
+- Personalized memory
+- Journaling
+- AI insights
 
-<div align="center">
+**Tech**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+`Python` `LLMs` `RAG` `AI Agents`
 
 <br>
 
-<code>👽 curiosity.exe is always running 👽</code>
+<img src="https://img.shields.io/badge/Status-Planning-yellow?style=flat" />
 
-<br><br>
+</td>
 
-<code>while (learning): build → break → debug → learn → repeat</code>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛡️ ScamSniffer
+
+Machine-learning based phishing detection application designed to identify suspicious links and websites.
+
+**Tech**
+
+`Python` `Scikit-learn` `Machine Learning`
+
+<br>
+
+<img src="https://img.shields.io/badge/ML-Random%20Forest-orange?style=flat" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👁️ Face Recognition Attendance
+
+Real-time face recognition system for automated attendance tracking.
+
+**Tech**
+
+`Python` `OpenCV` `SVM`
+
+<br>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-purple?style=flat" />
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/disha28r?tab=repositories">
+  <img src="https://img.shields.io/badge/📁%20ALL%20REPOSITORIES-2962FF?style=for-the-badge" />
+</a>
 
 </div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=disha28r&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=disha28r&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disha28r&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Generative AI
+     ↓
+LLMs → RAG → AI Agents
+     ↓
+FastAPI → Backend Development
+     ↓
+DSA → Problem Solving → System Design
