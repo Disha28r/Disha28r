@@ -205,28 +205,6 @@ Real-time face recognition system for automated attendance tracking.
 
 </div>
 ---
-<h2>🚀 My Top Projects</h2>
-
-<p>Some of the things I've been building and experimenting with.</p>
-
-<div align="center">
-
-<a href="https://github.com/Disha28r/Scamsniffer-A-phishing-detection-tool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Disha28r&repo=Scamsniffer-A-phishing-detection-tool&bg_color=161b22&title_color=f0f6fc&text_color=8b949e&icon_color=8b949e&border_color=30363d" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Disha28r?tab=repositories">
-  <img src="https://img.shields.io/badge/ALL%20REPOSITORIES-21262d?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
----
 
 # 📊 GitHub Activity
 
