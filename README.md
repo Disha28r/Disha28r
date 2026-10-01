@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Disha R
 
-### Software Engineer | Python | AI/ML | Generative AI
+ <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=600&lines=Python+Developer;Aspiring+AI+Engineer;Mastering+DSA;AI+ML;Generative+AI+/+LLMs;Agentic+AI+Applications;Open+Source+Contributor" alt="Typing Animation" />
 
 <p>
   I build software, automate things, and explore AI through practical projects.
