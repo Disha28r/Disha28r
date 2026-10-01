@@ -205,7 +205,7 @@ Real-time face recognition system for automated attendance tracking.
 </a>
 
 </div>
----
+
 
 # 📊 GitHub Activity
 
