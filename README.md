@@ -24,7 +24,22 @@
 
 ---
 
+
+
 ## 👩‍💻 About Me
+
+<table>
+<tr>
+
+<td width="30%" align="center">
+
+<img src="https://media.tenor.com/6JptszQgCnkAAAAm/text-work.webp" width="100%">
+
+</td>
+
+<td width="70%">
+
+### 
 
 - 💻 Software Engineer with 2+ years of experience in software & automation testing
 - 🐍 Working mainly with Python
@@ -32,6 +47,25 @@
 - 🧠 Practicing Data Structures & Algorithms
 - 🚀 Building AI-powered applications
 - 🎨 Interested in technology, art and creative projects
+
+<br>
+
+### 🤝 Open to Collaboration
+
+I'm always interested in collaborating on **AI/ML, Generative AI, Python and Open Source projects**.
+
+If you're building with **LLMs, RAG, AI agents or automation**, feel free to reach out!
+
+<br>
+
+<a href="mailto:acharyardisha@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20acharyardisha@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
