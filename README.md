@@ -1,4 +1,5 @@
 <div align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 # 👋 Hi, I'm Disha R 👽
 
@@ -7,7 +8,7 @@
 <p>
   I build software, automate things, and explore AI through practical projects.
 </p>
-
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <a href="https://www.linkedin.com/in/dishar28/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
@@ -106,84 +107,55 @@ If you're building with **LLMs, RAG, AI agents or automation**, feel free to rea
 
 # 🚀 My Top Projects
 
-<p>Some of the things I've been building and experimenting with.</p>
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<div style="border: 1px solid #58a6ff; border-radius: 10px; padding: 18px;">
-
-<h3>🎯 TalentMatch AI</h3>
+### 🎯 TalentMatch AI
 
 AI-powered recruitment platform for resume screening and candidate matching.
 
-<br><br>
+**Features**
 
-<b>Features</b>
+- Resume parsing
+- Candidate ranking
+- Skill-gap analysis
+- LLM-powered evaluation
+- AI-generated interview questions
 
-<ul>
-<li>Resume parsing</li>
-<li>Candidate ranking</li>
-<li>Skill-gap analysis</li>
-<li>LLM-powered evaluation</li>
-<li>AI-generated interview questions</li>
-</ul>
+**Tech**
 
-<b>Tech</b>
+`Python` `Streamlit` `Groq` `Llama` `GenAI`
 
-<br><br>
-
-<code>Python</code>
-<code>Streamlit</code>
-<code>Groq</code>
-<code>Llama</code>
-<code>GenAI</code>
-
-<br><br>
+<br>
 
 <a href="https://talentmatch-recruiter.onrender.com/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-238636?style=flat-square">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-2ea44f?style=for-the-badge" />
 </a>
-
-</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<div style="border: 1px solid #58a6ff; border-radius: 10px; padding: 18px;">
-
-<h3>🤖 SolaceAI</h3>
+### 🤖 SolaceAI
 
 Personalized AI companion focused on conversations, memory, journaling and wellness insights.
 
-<br><br>
+**Exploring**
 
-<b>Exploring</b>
+- LLM-powered conversations
+- Personalized memory
+- Journaling
+- AI insights
 
-<ul>
-<li>LLM-powered conversations</li>
-<li>Personalized memory</li>
-<li>Journaling</li>
-<li>AI-powered insights</li>
-</ul>
+**Tech**
 
-<b>Tech</b>
+`Python` `LLMs` `RAG` `AI Agents`
 
-<br><br>
+<br>
 
-<code>Python</code>
-<code>LLMs</code>
-<code>RAG</code>
-<code>AI Agents</code>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Status-Planning-F1C40F?style=flat-square">
-
-</div>
+<img src="https://img.shields.io/badge/Status-Planning-yellow?style=flat" />
 
 </td>
 
@@ -193,83 +165,43 @@ Personalized AI companion focused on conversations, memory, journaling and welln
 
 <td width="50%" valign="top">
 
-<div style="border: 1px solid #58a6ff; border-radius: 10px; padding: 18px;">
-
-<h3>🛡️ ScamSniffer</h3>
+### 🛡️ ScamSniffer
 
 Machine-learning based phishing detection application designed to identify suspicious links and websites.
 
-<br><br>
+**Tech**
 
-<b>What it does</b>
+`Python` `Scikit-learn` `Machine Learning`
 
-<ul>
-<li>Detects suspicious URLs</li>
-<li>Machine-learning based classification</li>
-<li>Interactive web interface</li>
-</ul>
+<br>
 
-<b>Tech</b>
-
-<br><br>
-
-<code>Python</code>
-<code>Scikit-learn</code>
-<code>Random Forest</code>
-
-<br><br>
-
-<a href="https://github.com/Disha28r/Scamsniffer-A-phishing-detection-tool">
-<img src="https://img.shields.io/badge/💻%20GitHub-21262d?style=flat-square&logo=github&logoColor=white">
-</a>
-
-</div>
+<img src="https://img.shields.io/badge/ML-Random%20Forest-orange?style=flat" />
 
 </td>
 
 <td width="50%" valign="top">
 
-<div style="border: 1px solid #58a6ff; border-radius: 10px; padding: 18px;">
-
-<h3>👁️ Face Recognition Attendance</h3>
+### 👁️ Face Recognition Attendance
 
 Real-time face recognition system for automated attendance tracking.
 
-<br><br>
+**Tech**
 
-<b>What it does</b>
+`Python` `OpenCV` `SVM`
 
-<ul>
-<li>Real-time face detection</li>
-<li>Face recognition</li>
-<li>Automated attendance tracking</li>
-</ul>
+<br>
 
-<b>Tech</b>
-
-<br><br>
-
-<code>Python</code>
-<code>OpenCV</code>
-<code>SVM</code>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-238636?style=flat-square">
-
-</div>
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-purple?style=flat" />
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
 <div align="center">
 
 <a href="https://github.com/disha28r?tab=repositories">
-<img src="https://img.shields.io/badge/📁%20ALL%20REPOSITORIES-1f6feb?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/📁%20ALL%20REPOSITORIES-2962FF?style=for-the-badge" />
 </a>
 
 </div>
@@ -307,4 +239,4 @@ LLMs → RAG → AI Agents
 FastAPI → Backend Development
      ↓
 DSA → Problem Solving → System Design
-
+---
