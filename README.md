@@ -43,7 +43,7 @@
 ### 
 
 - 💻 Software Engineer with 2+ years of experience in software & automation testing
-- 🐍 Working mainly with Python
+- 🐍 Working mainly towards software development and AI engineering
 - 🤖 Exploring Generative AI, LLMs, RAG & Agentic AI
 - 🧠 Practicing Data Structures & Algorithms
 - 🚀 Building AI-powered applications
