@@ -43,7 +43,7 @@
 ### 
 
 - 💻 Software Engineer with 2+ years of experience in software & automation testing
-- 🐍 Working mainly towards software development and AI engineering
+- 🐍 Working mainly towards full stack software development and AI engineering
 - 🤖 Exploring Generative AI, LLMs, RAG & Agentic AI
 - 🧠 Practicing Data Structures & Algorithms
 - 🚀 Building AI-powered applications
@@ -53,9 +53,9 @@
 
 ### 🤝 Open to Collaboration
 
-I'm always interested in collaborating on **AI/ML, Generative AI, Python and Open Source projects**.
+I'm always interested in collaborating on **AI/ML, Generative AI, Python, Full Stack and Open Source projects**.
 
-If you're building with **LLMs, RAG, AI agents or automation**, feel free to reach out!
+If you're building with **LLMs, RAG, AI agents or anything tech related**, feel free to reach out!
 
 <br>
 
