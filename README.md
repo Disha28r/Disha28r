@@ -130,7 +130,7 @@ AI-powered recruitment platform for resume screening and candidate matching.
 
 <td width="50%" valign="top">
 
-### 🤖 SolaceAI
+### 🤖 SolaceBot
 
 Personalized AI companion focused on conversations, memory, journaling and wellness insights.
 
