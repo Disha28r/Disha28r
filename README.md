@@ -192,14 +192,6 @@ Real-time face recognition system for automated attendance tracking.
 </div>
 
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=disha28r&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
 ---
 
 # 📈 GitHub Stats
